@@ -1,0 +1,4 @@
+Through this assignment, I learned how to use both the ideal diode model and the approximate diode model to analyze practical circuits. I also developed a clearer understanding of how diodes behave when connected in parallel. In particular, I learned that a diode with a lower forward voltage (such as a Silicon diode at about 0.7 V) will conduct first and limit the voltage, which prevents another diode with a higher forward voltage (like a GaAs diode at around 1.2 V) from turning on.
+
+Main difficulty:
+The biggest challenge was carefully examining the circuit diagrams to identify the tricky configurations. At first, it was difficult to notice when a diode was reverse-biased because of the orientation of the battery terminals. Another challenge was recognizing that two diodes connected in an anti-series (head-to-head) configuration behave like an open circuit, stopping current from flowing
